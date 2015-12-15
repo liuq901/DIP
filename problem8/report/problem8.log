@@ -1,0 +1,293 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.2)  4 DEC 2015 18:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**problem8.tex
+(./problem8.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./problem8.aux)
+\openout1 = `problem8.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 14.
+
+<../data/noisy_fingerprint.jpg, id=1, 316.18124pt x 238.8925pt>
+File: ../data/noisy_fingerprint.jpg Graphic file (type jpg)
+
+<use ../data/noisy_fingerprint.jpg>
+Package pdftex.def Info: ../data/noisy_fingerprint.jpg used on input line 16.
+(pdftex.def)             Requested size: 113.85063pt x 86.01945pt.
+
+<../data/erosion_noisy_fingerprint.jpg, id=2, 316.18124pt x 238.8925pt>
+File: ../data/erosion_noisy_fingerprint.jpg Graphic file (type jpg)
+
+<use ../data/erosion_noisy_fingerprint.jpg>
+Package pdftex.def Info: ../data/erosion_noisy_fingerprint.jpg used on input li
+ne 17.
+(pdftex.def)             Requested size: 113.85063pt x 86.01945pt.
+
+<../data/dilation_noisy_fingerprint.jpg, id=3, 316.18124pt x 238.8925pt>
+File: ../data/dilation_noisy_fingerprint.jpg Graphic file (type jpg)
+
+<use ../data/dilation_noisy_fingerprint.jpg>
+Package pdftex.def Info: ../data/dilation_noisy_fingerprint.jpg used on input l
+ine 18.
+(pdftex.def)             Requested size: 113.85063pt x 86.01945pt.
+
+Overfull \hbox (15.99632pt too wide) in paragraph at lines 16--19
+[][] [] [] 
+ []
+
+<../data/opening_noisy_fingerprint.jpg, id=4, 316.18124pt x 238.8925pt>
+File: ../data/opening_noisy_fingerprint.jpg Graphic file (type jpg)
+
+<use ../data/opening_noisy_fingerprint.jpg>
+Package pdftex.def Info: ../data/opening_noisy_fingerprint.jpg used on input li
+ne 20.
+(pdftex.def)             Requested size: 113.85063pt x 86.01945pt.
+
+<../data/closing_noisy_fingerprint.jpg, id=5, 316.18124pt x 238.8925pt>
+File: ../data/closing_noisy_fingerprint.jpg Graphic file (type jpg)
+
+<use ../data/closing_noisy_fingerprint.jpg>
+Package pdftex.def Info: ../data/closing_noisy_fingerprint.jpg used on input li
+ne 21.
+(pdftex.def)             Requested size: 113.85063pt x 86.01945pt.
+
+<../data/licoln_from_penny.jpg, id=6, 221.82875pt x 270.00874pt>
+File: ../data/licoln_from_penny.jpg Graphic file (type jpg)
+
+<use ../data/licoln_from_penny.jpg>
+Package pdftex.def Info: ../data/licoln_from_penny.jpg used on input line 28.
+(pdftex.def)             Requested size: 172.5pt x 209.96324pt.
+
+<../data/boundary_extraction_licoln_from_penny.jpg, id=7, 221.82875pt x 270.008
+74pt>
+File: ../data/boundary_extraction_licoln_from_penny.jpg Graphic file (type jpg)
+
+ <use ../data/boundary_extraction_licoln_from_penny.jpg>
+Package pdftex.def Info: ../data/boundary_extraction_licoln_from_penny.jpg used
+ on input line 29.
+(pdftex.def)             Requested size: 172.5pt x 209.96324pt.
+
+Overfull \hbox (17.22221pt too wide) in paragraph at lines 28--30
+[][] [] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../data/noisy_fingerprint.
+jpg> <../data/erosion_noisy_fingerprint.jpg> <../data/dilation_noisy_fingerprin
+t.jpg> <../data/opening_noisy_fingerprint.jpg> <../data/closing_noisy_fingerpri
+nt.jpg>]
+<../data/region_filling_reflections.jpg, id=20, 513.92pt x 513.92pt>
+File: ../data/region_filling_reflections.jpg Graphic file (type jpg)
+
+<use ../data/region_filling_reflections.jpg>
+Package pdftex.def Info: ../data/region_filling_reflections.jpg used on input l
+ine 34.
+(pdftex.def)             Requested size: 172.5pt x 172.50342pt.
+
+<../data/hole_filling_region_filling_reflections.jpg, id=21, 513.92pt x 513.92p
+t>
+File: ../data/hole_filling_region_filling_reflections.jpg Graphic file (type jp
+g)
+ <use ../data/hole_filling_region_filling_reflections.jpg>
+Package pdftex.def Info: ../data/hole_filling_region_filling_reflections.jpg us
+ed on input line 35.
+(pdftex.def)             Requested size: 172.5pt x 172.50342pt.
+
+Overfull \hbox (17.22221pt too wide) in paragraph at lines 34--36
+[][] [] 
+ []
+
+<../data/chickenfilet_with_bones.jpg, id=22, 714.67pt x 322.20375pt>
+File: ../data/chickenfilet_with_bones.jpg Graphic file (type jpg)
+
+<use ../data/chickenfilet_with_bones.jpg>
+Package pdftex.def Info: ../data/chickenfilet_with_bones.jpg used on input line
+ 38.
+(pdftex.def)             Requested size: 172.5pt x 77.76804pt.
+
+<../data/connected_component_extraction_chickenfilet_with_bones.jpg, id=23, 714
+.67pt x 322.20375pt>
+File: ../data/connected_component_extraction_chickenfilet_with_bones.jpg Graphi
+c file (type jpg)
+
+<use ../data/connected_component_extraction_chickenfilet_with_bones.jpg>
+Package pdftex.def Info: ../data/connected_component_extraction_chickenfilet_wi
+th_bones.jpg used on input line 39.
+(pdftex.def)             Requested size: 172.5pt x 77.76804pt.
+
+<../data/connected_component_chickenfilet_with_bones.jpg, id=24, 803.0pt x 602.
+25pt>
+File: ../data/connected_component_chickenfilet_with_bones.jpg Graphic file (typ
+e jpg)
+ <use ../data/connected_component_chickenfilet_with_bones.jpg>
+Package pdftex.def Info: ../data/connected_component_chickenfilet_with_bones.jp
+g used on input line 40.
+(pdftex.def)             Requested size: 345.0pt x 258.75108pt.
+
+Overfull \hbox (2.22221pt too wide) in paragraph at lines 38--41
+[] []
+ []
+
+[2 <../data/licoln_from_penny.jpg> <../data/boundary_extraction_licoln_from_pen
+ny.jpg> <../data/region_filling_reflections.jpg> <../data/hole_filling_region_f
+illing_reflections.jpg>] [3 <../data/chickenfilet_with_bones.jpg> <../data/conn
+ected_component_extraction_chickenfilet_with_bones.jpg> <../data/connected_comp
+onent_chickenfilet_with_bones.jpg>] (./problem8.aux) ) 
+Here is how much of TeX's memory you used:
+ 1545 strings out of 493304
+ 23786 string characters out of 6139872
+ 79431 words of memory out of 5000000
+ 5002 multiletter control sequences out of 15000+600000
+ 7280 words of font info for 26 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 37i,6n,23p,563b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb>
+Output written on problem8.pdf (3 pages, 384729 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+
